@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: MTUE_backend
+
+
+server:
+  port: 8084
+
+
